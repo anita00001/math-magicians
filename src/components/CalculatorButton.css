@@ -1,0 +1,13 @@
+.calculator-button {
+  width: 3.5rem;
+  height: 3rem;
+  border: 1px solid #fff;
+}
+
+.calculator-button:last-child {
+  background-color: rgba(231, 117, 60, 0.904);
+}
+
+.calculator-button.wide {
+  width: 7rem;
+}
