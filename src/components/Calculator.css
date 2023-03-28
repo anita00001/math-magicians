@@ -1,0 +1,7 @@
+.calculator-output {
+  padding: 0.7rem 0.2rem;
+  text-align: right;
+  background-color: rgba(155, 160, 164, 0.831);
+  color: #fff;
+  border: 1px solid #fff;
+}
